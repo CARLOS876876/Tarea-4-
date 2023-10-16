@@ -1,0 +1,10 @@
+C:\Users\BASSTIAN\Documents\Visual Studio 2010\Projects\AppSoap\obj\x86\Debug\AppSoap.Form1.resources
+C:\Users\BASSTIAN\Documents\Visual Studio 2010\Projects\AppSoap\obj\x86\Debug\AppSoap.Resources.resources
+C:\Users\BASSTIAN\Documents\Visual Studio 2010\Projects\AppSoap\obj\x86\Debug\AppSoap.vbproj.GenerateResource.Cache
+C:\Users\BASSTIAN\Documents\Visual Studio 2010\Projects\AppSoap\bin\Debug\AppSoap.exe.config
+C:\Users\BASSTIAN\Documents\Visual Studio 2010\Projects\AppSoap\bin\Debug\AppSoap.exe
+C:\Users\BASSTIAN\Documents\Visual Studio 2010\Projects\AppSoap\bin\Debug\AppSoap.pdb
+C:\Users\BASSTIAN\Documents\Visual Studio 2010\Projects\AppSoap\bin\Debug\AppSoap.xml
+C:\Users\BASSTIAN\Documents\Visual Studio 2010\Projects\AppSoap\obj\x86\Debug\AppSoap.exe
+C:\Users\BASSTIAN\Documents\Visual Studio 2010\Projects\AppSoap\obj\x86\Debug\AppSoap.xml
+C:\Users\BASSTIAN\Documents\Visual Studio 2010\Projects\AppSoap\obj\x86\Debug\AppSoap.pdb

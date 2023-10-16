@@ -1,0 +1,88 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AppSoap
+</name>
+</assembly>
+<members>
+<member name="M:AppSoap.AppSoap_Crud.Service.#ctor">
+	<remarks/>
+</member><member name="E:AppSoap.AppSoap_Crud.Service.FnVerAlumnoCompleted">
+	<remarks/>
+</member><member name="E:AppSoap.AppSoap_Crud.Service.FnRegistrarAlumnoCompleted">
+	<remarks/>
+</member><member name="E:AppSoap.AppSoap_Crud.Service.FnEliminarAlumnoCompleted">
+	<remarks/>
+</member><member name="M:AppSoap.AppSoap_Crud.Service.FnVerAlumno">
+	<remarks/>
+</member><member name="M:AppSoap.AppSoap_Crud.Service.FnVerAlumnoAsync">
+	<remarks/>
+</member><member name="M:AppSoap.AppSoap_Crud.Service.FnVerAlumnoAsync(System.Object)">
+	<remarks/>
+</member><member name="M:AppSoap.AppSoap_Crud.Service.FnRegistrarAlumno(System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.String)">
+	<remarks/>
+</member><member name="M:AppSoap.AppSoap_Crud.Service.FnRegistrarAlumnoAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.String)">
+	<remarks/>
+</member><member name="M:AppSoap.AppSoap_Crud.Service.FnRegistrarAlumnoAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:AppSoap.AppSoap_Crud.Service.FnEliminarAlumno(System.String)">
+	<remarks/>
+</member><member name="M:AppSoap.AppSoap_Crud.Service.FnEliminarAlumnoAsync(System.String)">
+	<remarks/>
+</member><member name="M:AppSoap.AppSoap_Crud.Service.FnEliminarAlumnoAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:AppSoap.AppSoap_Crud.Service.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:AppSoap.AppSoap_Crud.Service">
+	<remarks/>
+</member><member name="T:AppSoap.AppSoap_Crud.Soap_estudiantes.EstudiantesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AppSoap.AppSoap_Crud.Soap_estudiantes.EstudiantesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AppSoap.AppSoap_Crud.Soap_estudiantes.EstudiantesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AppSoap.AppSoap_Crud.Soap_estudiantes">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AppSoap.AppSoap_Crud.FnVerAlumnoCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AppSoap.AppSoap_Crud.FnVerAlumnoCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AppSoap.AppSoap_Crud.FnVerAlumnoCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AppSoap.AppSoap_Crud.FnRegistrarAlumnoCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AppSoap.AppSoap_Crud.FnRegistrarAlumnoCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AppSoap.AppSoap_Crud.FnRegistrarAlumnoCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AppSoap.AppSoap_Crud.FnEliminarAlumnoCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AppSoap.AppSoap_Crud.FnEliminarAlumnoCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AppSoap.AppSoap_Crud.FnEliminarAlumnoCompletedEventArgs">
+	<remarks/>
+</member><member name="P:AppSoap.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:AppSoap.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:AppSoap.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
